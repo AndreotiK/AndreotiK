@@ -1,15 +1,3 @@
-## Olá! Eu sou o Gustavo F. Andreóti
-
-- Tenho 19 anos e sou estudante de Engenharia de Controle e Automação na FTT e de Ciência da Computação na UFABC.
-- Atualmente estudando algumas linguagens de programação: C++, C# por meio do framework .NET da Microsoft e JavaScript alinhado às tecnologias HTML5 e CSS3.
-- Apaixonado por programação e tecnologia de automação, estou sempre disposto a ajudar pessoas e resolver problemas.
-
-## Hello there! I'm Gustavo F. Andreóti
-
-- I'm 19y old, student of Engeneering of Control and Automation at FTT and Computer Science at UFABC.
-- Currently studying some programming languages: C++, C# through .NET Microsoft's framework and JavaScript aligned to HMTL5 and CSS technologies .
-- In love with programming and automation technology, I'm always willing to help other people out and solve problems.
-##
 <div>
   <a href="https://github.com/AndreotiK">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreotiK&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
